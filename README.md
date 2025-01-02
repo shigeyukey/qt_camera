@@ -1,0 +1,1 @@
+This is a minimal Anki add-on to check camera working with Anki. Use Qt5 or Qt6 to view the webcam video. If a crash occurs, you need to press Shift to restart Anki and disable the add-on.
