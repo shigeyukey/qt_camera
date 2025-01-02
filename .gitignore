@@ -1,3 +1,5 @@
 __pycache__
 /meta.json
 *.ankiaddon
+/_memo.txt
+/zzz_makeAnkiAddonFile.py
